@@ -1,5 +1,23 @@
 <h1 align="center">Hi 👋, I'm Muhammad Umar Ajmal</h1>
-<h3 align="center">Crafting Seamless User Experiences with Excellence.</h3>
+<h3 align="left">👋 Hi there! I'm a passionate **Machine Learning Enthusiast** with a focus on creating innovative AI-driven solutions. 🚀
+
+🔹 **Expertise**:  
+- Machine Learning (Python, TensorFlow, NLP)  
+- Data Preprocessing & Model Training  
+- AI-driven Projects (Next Word Predictor, etc.)  
+- Flutter App Development (as a secondary skill)
+
+💡 **What I Do**:  
+I specialize in building intelligent machine learning models and integrating them into real-world applications. I also develop intuitive mobile apps with Flutter, making complex solutions user-friendly.
+
+🌟 **Exploring**:  
+Currently diving deeper into **Machine Learning** and building solutions that push the boundaries of AI. Check out my latest project: **Next Word Predictor** based on Helen Keller's novel.
+
+📫 **Let’s Connect**:  
+ [Email](mailto:umarajmal@gmail.com)
+
+📂 **Portfolio**:  
+Explore my repositories to see how I combine **Machine Learning** and **Flutter** to build impactful solutions. Let's collaborate on something amazing! 💻</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umarajmal" alt="umarajmal" /></a> </p>
 

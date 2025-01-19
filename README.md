@@ -3,7 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umarajmal" alt="umarajmal" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter & Dart**
+- 🌱 I’m currently learning **Machine Learning**
+
+- 💻 Also skilled in **Flutter App Development**.
 
 - 📫 How to reach me **umarajmal342@gmail.com**
 

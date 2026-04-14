@@ -65,7 +65,8 @@ I thrive on taking bleeding‑edge AI frameworks like **LangChain, LangGraph, an
 ---
 
 > 🚀 I’m always building, improving, and pushing the boundaries of what AI + software can do together.
-> 📫 How to reach me **umarajmaldeveloper@gmail.com
+
+> 📫 How to reach me umarajmaldeveloper@gmail.com
 
 
 

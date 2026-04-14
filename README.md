@@ -1,23 +1,78 @@
-<h1 align="center">Hi 👋, I'm Muhammad Umar Ajmal</h1>
-<h3 align="left">👋 Hi there! I'm a passionate **Machine Learning Enthusiast** with a focus on creating innovative AI-driven solutions. 🚀
+<!-- Header + Greeting -->
+<h1 align="center">Hi 👋 I'm Muhammad Umar Ajmal</h1>
 
-🔹 **Expertise**:  
-- Machine Learning (Python, TensorFlow, NLP)  
-- Data Preprocessing & Model Training  
-- AI-driven Projects (Next Word Predictor, etc.)  
-- Flutter App Development (as a secondary skill)
+<!-- Professional Title -->
+<h3 align="center">AI Engineer | Generative AI & LLM Specialist 🤖</h3>
 
-💡 **What I Do**:  
-I specialize in building intelligent machine learning models and integrating them into real-world applications. I also develop intuitive mobile apps with Flutter, making complex solutions user-friendly.
+---
 
-🌟 **Exploring**:  
-Currently diving deeper into **Machine Learning** and building solutions that push the boundaries of AI. Check out my latest project: **Next Word Predictor** based on Helen Keller's novel.
+## 💡 About Me
+I’m a **results‑driven AI Engineer** building advanced AI systems, **Generative AI applications**, and full‑stack software that solves real‑world problems. I combine expertise in **LLMs, intelligent agents, and modern development stacks** to build products — not just proofs of concept.
 
-📫 **Let’s Connect**:  
- [Email](mailto:umarajmal@gmail.com)
+I thrive on taking bleeding‑edge AI frameworks like **LangChain, LangGraph, and AutoCrew** from idea to production‑ready systems, while also leveraging my background in **Python, Flutter, and full‑stack web development (MERN)** to deliver end‑to‑end solutions.
 
-📂 **Portfolio**:  
-Explore my repositories to see how I combine **Machine Learning** and **Flutter** to build impactful solutions. Let's collaborate on something amazing! 💻</h3>
+---
+
+## 🔍 Core Competencies
+
+### 🤖 Generative AI
+- Large Language Model (LLM) Applications  
+- Agent Systems & Autonomous Workflows  
+- RAG (Retrieval‑Augmented Generation) & Vector Search  
+- LangChain • LangGraph • AutoCrew  
+- API Integration & Deployment
+
+### 🧠 Machine Learning
+- Deep Learning & NLP  
+- Python • TensorFlow • Scikit‑Learn  
+- Data Preprocessing • Model Optimization
+
+### 🌐 Full‑Stack & Mobile
+- MERN Stack — MongoDB • Express • React • Node.js  
+- Flutter — Cross‑Platform Mobile Apps  
+- FastAPI • Flask • REST APIs
+
+### 🔧 Tools & Platforms
+- Git & GitHub • Docker • Firebase • Cloud Services
+
+---
+
+## 🚀 Highlight Projects
+
+### ⭐ AI & LLM Projects
+| Project | Description |
+|---------|-------------|
+| **AI Agent Builder** | Autonomous agent using LangChain + AutoCrew |
+| **RAG Search App** | Intelligent retrieval app with embeddings |
+| **LangGraph Assistant** | Knowledge graph integrated agent UI |
+
+### 🌐 Full‑Stack & App Development
+| Project | Tech |
+|---------|------|
+| **MERN E‑Commerce** | React • Node.js • MongoDB |
+| **QR‑Code Attendance System** | Flutter • Firebase |
+| **Flutter Craft Apps** | Multi UI/UX mobile apps |
+
+> Each project includes clean documentation, live demos (where available), and code modularized for reuse and contribution.
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umarajmal&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umarajmal&layout=compact&theme=dark)
+
+---
+
+## 📫 Let’s Connect
+📧 **Email:** umarajmal342@gmail.com  
+🔗 **LinkedIn:** https://linkedin.com/in/muhmmadumarajmal  
+🎥 **YouTube:** @flutter_craft_7
+
+---
+
+> 🚀 I’m always building, improving, and pushing the boundaries of what AI + software can do together.
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umarajmal" alt="umarajmal" /></a> </p>
 

@@ -64,25 +64,11 @@ I thrive on taking bleeding‑edge AI frameworks like **LangChain, LangGraph, an
 
 ---
 
-## 📫 Let’s Connect
-📧 **Email:** umarajmal342@gmail.com  
-🔗 **LinkedIn:** https://linkedin.com/in/muhmmadumarajmal  
-🎥 **YouTube:** @flutter_craft_7
-
----
-
 > 🚀 I’m always building, improving, and pushing the boundaries of what AI + software can do together.
+> 📫 How to reach me **umarajmaldeveloper@gmail.com
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umarajmal" alt="umarajmal" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
-
-- 💻 Also skilled in **Flutter App Development**.
-
-- 📫 How to reach me **umarajmal342@gmail.com**
-
-- ⚡ Fun fact **I think I'm optimistic.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -28,9 +28,9 @@ I thrive on taking bleeding‑edge AI frameworks like **LangChain, LangGraph, an
 - Data Preprocessing • Model Optimization
 
 ### 🌐 Full‑Stack & Mobile
-- MERN Stack — MongoDB • Express • React • Node.js  
-- Flutter — Cross‑Platform Mobile Apps  
-- FastAPI • Flask • REST APIs
+- Web Stack  MySQL • Postgre SQL • Express • React • Node.js • Next.js • Twailwind • Typescript • Python Plsk
+- Mobile APPs  Flutter • Dart • Firebase (Authentication, Storage, Firestore) • Supabase
+- FastAPI  • REST APIs
 
 ### 🔧 Tools & Platforms
 - Git & GitHub • Docker • Firebase • Cloud Services

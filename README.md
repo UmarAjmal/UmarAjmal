@@ -49,10 +49,11 @@ I thrive on taking bleeding‑edge AI frameworks like **LangChain, LangGraph, an
 ### 🌐 Full‑Stack & App Development
 | Project | Tech |
 |---------|------|
-| **Smart School System** | Next • Node.js • Supabase |
-| **Graphics POS Software** | Php • Laravel •MySql|
+| **Smart School System** | Next • Node.js • Supabase/ Postgre SQL |
+| **Graphics POS Software** | Php • Laravel • MySQL|
+| **Graphics Trading POS Software** | Php • Laravel • MySQL|
 | **Online POS Web** | Python • Flask • Postgre |
-| **Pesticide POS Software** | Python • PyQt6 • SQlite |
+| **Pesticide POS Software** | Python • PyQt6 • SQLite |
 
 > Each project includes clean documentation, live demos (where available), and code modularized for reuse and contribution.
 

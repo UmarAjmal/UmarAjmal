@@ -7,7 +7,7 @@
 ---
 
 ## 💡 About Me
-I’m a **results‑driven AI Engineer** building advanced AI systems, **Generative AI applications**, and full‑stack software that solves real‑world problems. I combine expertise in **LLMs, intelligent agents, and modern development stacks** to build products — not just proofs of concept.
+I’m a **results‑driven AI Engineer** building advanced AI systems, **Generative AI applications**, and full‑stack software that solves real‑world problems. I combine expertise in **LLMs, intelligent agents, and modern development stacks** to build products not just proofs of concept.
 
 I thrive on taking bleeding‑edge AI frameworks like **LangChain, LangGraph, and AutoCrew** from idea to production‑ready systems, while also leveraging my background in **Python, Flutter, and full‑stack web development (MERN)** to deliver end‑to‑end solutions.
 
@@ -49,9 +49,10 @@ I thrive on taking bleeding‑edge AI frameworks like **LangChain, LangGraph, an
 ### 🌐 Full‑Stack & App Development
 | Project | Tech |
 |---------|------|
-| **MERN E‑Commerce** | React • Node.js • MongoDB |
-| **QR‑Code Attendance System** | Flutter • Firebase |
-| **Flutter Craft Apps** | Multi UI/UX mobile apps |
+| **Smart School System** | Next • Node.js • Supabase |
+| **Graphics POS Software** | Php • Laravel •MySql|
+| **Online POS Web ** | Python • Flask • Postgre |
+| **Pesticide POS Software ** | Python • PyQt6 • SQlite |
 
 > Each project includes clean documentation, live demos (where available), and code modularized for reuse and contribution.
 

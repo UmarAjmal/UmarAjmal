@@ -28,9 +28,9 @@ I thrive on taking bleeding‑edge AI frameworks like **LangChain, LangGraph, an
 - Data Preprocessing • Model Optimization
 
 ### 🌐 Full‑Stack & Mobile
-- Web Stack  MySQL • Postgre SQL • Express • React • Node.js • Next.js • Twailwind • Typescript • Python Plsk
-- Mobile APPs  Flutter • Dart • Firebase (Authentication, Storage, Firestore) • Supabase
-- FastAPI  • REST APIs
+- Web Stack →  Express • React • Node.js • Next.js • Twailwind • Typescript • Python Plsk
+- Mobile APPs → Flutter • Dart • Firebase (Authentication, Storage, Firestore) • Supabase
+- FastAPI  • REST APIs • MySQL • Postgre SQL
 
 ### 🔧 Tools & Platforms
 - Git & GitHub • Docker • Firebase • Cloud Services
@@ -51,8 +51,8 @@ I thrive on taking bleeding‑edge AI frameworks like **LangChain, LangGraph, an
 |---------|------|
 | **Smart School System** | Next • Node.js • Supabase |
 | **Graphics POS Software** | Php • Laravel •MySql|
-| **Online POS Web ** | Python • Flask • Postgre |
-| **Pesticide POS Software ** | Python • PyQt6 • SQlite |
+| **Online POS Web** | Python • Flask • Postgre |
+| **Pesticide POS Software** | Python • PyQt6 • SQlite |
 
 > Each project includes clean documentation, live demos (where available), and code modularized for reuse and contribution.
 
